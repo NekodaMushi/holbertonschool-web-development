@@ -32,6 +32,22 @@ As a programming interface for web documents, the Document Object Model (DOM) al
 In HTML, elements have attributes that provide extra information. These attributes are found in the opening tag and typically consist of pairs of names and values. For example, the attribute name in "<img src="picture.jpg">" is src, and its value is "picture.jpg".
 
 
+Purpose of Each HTML Tag
+<html>: This tag is the root of an HTML document. All other tags should fall within it.
+<head>: This tag contains meta-information about the document not displayed on the web page itself.
+<title>: This tag specifies the title of the web page.
+<body>: This tag contains the content displayed to web users.
+<h1> to <h6>: These tags represent headings, <h1> being the highest and <h6> the lowest.
+<p>: This tag defines a paragraph.
+<a>: This tag defines a hyperlink, which is used to link from one page to another.
+<img>: This tag is used to embed images in the web page.
+<div>: This tag is a container that is used to group other elements.
+<span>: This tag is used to group inline-elements in a document.
+<ul>/<ol> and <li>: These tags are used for unordered and ordered lists respectively.
+<form>: This tag is used to create an HTML form for user input.
+<input>: This tag is used to provide input controls in an HTML form.
+
+
 Here an overview of what we gonna build:
 
 ![GitHub Logo](https://github.com/NekodaMushi/holbertonschool-web-development/blob/main/img/img_readme.jpg)
