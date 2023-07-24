@@ -29,4 +29,9 @@ As a programming interface for web documents, the Document Object Model (DOM) al
 
 ## What is an Attribute?
 
-In HTML, elements have attributes that provide extra information. These attributes are found in the opening tag and typically consist of pairs of names and values. For example, the attribute name in <img src="picture.jpg"> is src, and its value is "picture.jpg".
+In HTML, elements have attributes that provide extra information. These attributes are found in the opening tag and typically consist of pairs of names and values. For example, the attribute name in "<img src="picture.jpg">" is src, and its value is "picture.jpg".
+
+
+Here an overview of what we gonna build:
+
+![GitHub Logo](https://github.com/NekodaMushi/holbertonschool-web-development/blob/main/img/img-readme.jpg)
