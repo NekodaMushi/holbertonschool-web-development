@@ -34,4 +34,4 @@ In HTML, elements have attributes that provide extra information. These attribut
 
 Here an overview of what we gonna build:
 
-![GitHub Logo](https://github.com/NekodaMushi/holbertonschool-web-development/blob/main/img/img-readme.jpg)
+![GitHub Logo](https://github.com/NekodaMushi/holbertonschool-web-development/blob/main/img/img_readme.jpg)
