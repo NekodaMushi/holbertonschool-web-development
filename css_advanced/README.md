@@ -36,4 +36,4 @@ Requirements
 
 Here an overview of the design we will try to reproduce:
 
-![GitHub Logo](https://github.com/NekodaMushi/holbertonschool-web-development/blob/main/img/img_readme.jpg)
+![GitHub Logo](https://github.com/NekodaMushi/holbertonschool-web-development/blob/main/css_advanced/img/design.jpg)
